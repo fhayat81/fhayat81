@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and DSA
 - 🌱 I’m currently learning frontend development 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me linkedIn (Fazal Hayat Khan), instagram (_Fazal_776), Gmail (fazalhayatkhan001@gmail.com)
+- 📫 How to reach me linkedIn (Fazal Hayat Khan), instagram (_fazal_776), Gmail (fazalhayatkhan001@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
