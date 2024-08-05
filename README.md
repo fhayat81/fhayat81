@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fhayat81
 - 👀 I’m interested in Web Development and DSA
-- 🌱 I’m currently learning frontend development 
+- 🌱 I’m currently learning backend development and databases (frontend done!) 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me linkedIn (Fazal Hayat Khan), instagram (_fazal_776), Gmail (fazalhayatkhan001@gmail.com)
 - 😄 Pronouns: He/Him
